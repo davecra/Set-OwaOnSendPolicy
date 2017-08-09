@@ -1,4 +1,4 @@
-
+![LOGO](https://davecra.files.wordpress.com/2017/08/set-owaonsendpolicy.png)
 # CONFIGURING EXCHANGE 2016 (ON-PREM) FOR ONSENDADDINSENABLED POLICY
 For On Premises installations of Exchange 2016, you will need to configure then per this guide in order to take full advantage of the Outlook Web Add-ins OnSend event, which is fully documented here:
 

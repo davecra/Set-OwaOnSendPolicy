@@ -26,7 +26,7 @@ Get-PowerShellVirtualDirectory | Set-PowerShellVirtualDirectory -BasicAuthentica
 ## Configuring the Policy
 Once you have met the initial requirements, you can begin to apply the policy to your users/group accounts. A script has been made available in order to make this process much easier. If you prefer to to the steps manually, please see the following article:
 
-	(https://docs.microsoft.com/en-us/outlook/add-ins/outlook-on-send-addins?product=outlook#installing-outlook-add-ins-that-use-on-send) 
+   (https://docs.microsoft.com/en-us/outlook/add-ins/outlook-on-send-addins?product=outlook#installing-outlook-add-ins-that-use-on-send) 
 
 Otherwise you can use the PowerShell script provided in this repository:
 

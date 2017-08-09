@@ -1,3 +1,4 @@
+
 # CONFIGURING EXCHANGE 2016 (ON-PREM) FOR ONSENDADDINSENABLED POLICY
 For On Premises installations of Exchange 2016, you will need to configure then per this guide in order to take full advantage of the Outlook Web Add-ins OnSend event, which is fully documented here:
 
@@ -13,7 +14,9 @@ Next, you will need to update Active Directory so that the ONSENDADDINSENABLED P
 1)	After you have completed the install of CU6, reboot
 2)	After rebooting, run setup.exe from the CU6 folder/ISO or drive with the following command:
 
-  Setup.exe /PrepareAD /IAcceptExchangeServerLicenseTerms
+```powershell
+Setup.exe /PrepareAD /IAcceptExchangeServerLicenseTerms
+```
 
 3)	After this is complete, reboot the server.
 

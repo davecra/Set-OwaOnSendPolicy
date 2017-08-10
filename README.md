@@ -1,4 +1,11 @@
 ![LOGO](https://davecra.files.wordpress.com/2017/08/set-owaonsendpolicy.png)
+# CONFIGURING OFFICE 365 TENANT FOR ONSENDADDINSENABLED POLICY
+The provided script will allow you to very easily setup your tenant for OnSend add-ins to function for either individual users or groups. For more information on using the script, use the PowerShell Get-Help commandlet:
+
+```powershell
+Get-Help .\Set-OwaOnSendPolicy.ps1 -full
+```
+
 # CONFIGURING EXCHANGE 2016 (ON-PREM) FOR ONSENDADDINSENABLED POLICY
 For On Premises installations of Exchange 2016, you will need to configure then per this guide in order to take full advantage of the Outlook Web Add-ins OnSend event, which is fully documented here:
 

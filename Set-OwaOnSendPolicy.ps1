@@ -108,9 +108,10 @@ Write-Host -ForegroundColor:DarkGreen @"
 ##                       Set-OwaOnSendPolicy                                  ##
 ##                                                                            ##
 ## Created by:                                                                ##
-## - David E. Craig                                                           ##
-## - Version 1.0.2                                                            ##
-## - August 8, 2017 11:25AM EST                                               ##
+##      - David E. Craig                                                      ##
+##      - Blaine Mathena                                                      ##
+## - Version 1.0.3                                                            ##
+## - September 5, 2017 12:49PM EST                                            ##
 ## - http://theofficecontext.com                                              ##
 ##                                                                            ##
 ## Usage:                                                                     ##

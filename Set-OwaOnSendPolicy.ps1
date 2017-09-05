@@ -110,7 +110,7 @@ Write-Host -ForegroundColor:DarkGreen @"
 ## Created by:                                                                ##
 ##      - David E. Craig                                                      ##
 ##      - Blaine Mathena                                                      ##
-## - Version 1.0.3                                                            ##
+## - Version 1.0.2a                                                            ##
 ## - September 5, 2017 12:49PM EST                                            ##
 ## - http://theofficecontext.com                                              ##
 ##                                                                            ##
